@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Screen Title</string>
+    <string name="nombre">Ramon David</string>
+    <string name="telefono">659898996</string>
+    <string name="email">email@Raul</string>
+    <string name="descripcion">Soy alto y delgado</string>
+    <string name="fecha_nacimiento">17/12/1991</string>
+
+</resources>
